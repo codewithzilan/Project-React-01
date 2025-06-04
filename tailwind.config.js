@@ -17,7 +17,7 @@ export default {
         'fourth':'#726E9E',
         'fifth':'#CBC8F0',
         'sixth':'#F6F5FF',
-        'seven':'#6B62C5'
+        'seven':'#6B62C5',
       },
       maxWidth: {
         'container': '1170px',
